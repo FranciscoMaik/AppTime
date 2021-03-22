@@ -56,5 +56,5 @@ A aplicação utiliza de geolocalição para identificar a cidade do usuário e 
 
 
 ## Licença
-[Licença MIT](https://github.com/FranciscoMaik/AppGeneratePassword/blob/main/LICENSE)  © [FranciscoMaik](https://www.linkedin.com/in/francisco-maik-fonseca-nunes-468511184/)
+[Licença MIT](https://github.com/FranciscoMaik/AppTime/blob/main/LICENSE)  © [FranciscoMaik](https://www.linkedin.com/in/francisco-maik-fonseca-nunes-468511184/)
 
